@@ -49,10 +49,10 @@ Reserved seats are unclickable.
 File Structure
 
 seat-selector-ui/
-│── index.html     # Main HTML file
-│── style.css      # Stylesheet
-│── script.js      # JavaScript for UI interactions
-│── assets/        # Images or icons (if any)
+ index.html     # Main HTML file
+ style.css      # Stylesheet
+ script.js      # JavaScript for UI interactions
+ assets        # Images or icons (if any)
 
 Customization
 
