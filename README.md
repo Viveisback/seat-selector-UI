@@ -26,7 +26,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/seat-selector-ui.git
+git clone https://github.com/Viveisback/seat-selector-UI.git
 
 Navigate to the project folder:
 
